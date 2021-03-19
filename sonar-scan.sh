@@ -1,0 +1,2 @@
+#!/bin/bash
+sonar-scanner -Dsonar.organization=alessandrofato98 -Dsonar.projectKey=alessandrofato98_ISW2-Deliverable1 -Dsonar.sources=. -Dsonar.host.url=https://sonarcloud.io

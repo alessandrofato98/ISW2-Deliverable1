@@ -1,16 +1,21 @@
 # ISW2-Deliverable1
 Deliverable 1 for ISW2 class
 
-Istruzioni:
+E' possibile visionare direttamente il file "Process control chart.xlsx" scaricandolo dalla repository attuale
+In alternativa, è possibile aggiornare i dati in quel file svolgendo i seguenti passaggi:
 
-1. Eseguire il codice Java. Questo genererà un file csv chiamato data.csv nella cartella principale
+1. Scaricare il progetto java che corrisponde alla cartella "Deliverable1-Project". Compilare ed eseguire. Questo genererà un file csv chiamato "data.csv"
+2. Aggiornare il file "Process control chart.xlsx" con i dati presenti nel csv:
 
-2. Importare il file csv su Excel:
+	- Aprire il file Excel, andare nella sezione Dati e premere su Aggiorna tutto
+	- Selezionare il file "data.csv" e confermare
 
-	2.1 Da un qualunque file excel andare nella sezione Dati
-	2.2 Andare su Carica dati esterni -> Da testo
-	2.3 Selezionare il file csv e andare avanti nella schermata che compare
-	2.4 Selezionare come delimitatore la virgola, in modo da avere due colonne, e premere avanti
-	2.5 Selezionare Data, formato AMG e premere fine
-	2.6 Inserire i dati dove lo si ritiene più consono. NB: questi contengono anche i nomi delle colonne
 
+3. Se all'apertura di "Process control chart.xlsx" nessuno dato dovesse essere connesso, allora eseguire i seguenti passaggi:
+
+	- Dal file excel andare nella sezione Dati
+	- Andare su Carica dati esterni -> Da testo
+	- Selezionare il file "data.csv" e andare avanti nella schermata che compare
+	- Selezionare come delimitatore la virgola, in modo da avere due colonne, e premere avanti
+	- Selezionare Data, formato AMG e premere fine
+	- Inserire i dati nel foglio esistente a partire dalla cella A1 (NB: questi contengono anche i nomi delle colonne)

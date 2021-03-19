@@ -1,7 +1,7 @@
 # ISW2-Deliverable1
 Deliverable 1 for ISW2 class
 
-E' possibile visionare direttamente il file "Process control chart.xlsx" scaricandolo dalla repository attuale
+E' possibile visionare direttamente il file "Process control chart.xlsx" scaricandolo dalla repository attuale.
 In alternativa, è possibile aggiornare i dati in quel file svolgendo i seguenti passaggi:
 
 1. Scaricare il progetto java che corrisponde alla cartella "Deliverable1-Project". Compilare ed eseguire. Questo genererà un file csv chiamato "data.csv"

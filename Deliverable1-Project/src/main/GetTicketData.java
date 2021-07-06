@@ -71,13 +71,11 @@ public class GetTicketData {
     	 */
         
 		String project = "FALCON";
-		String issueType = "(standardIssueTypes(), subTaskIssueTypes())";
 		String status = "(Resolved, Closed)";
 		String resolution = "fixed";
 		
 		String jql = ""
 				+ "project=" + project + " AND "
-				+ "issuetype in " + issueType + "  AND "
 				+ "status in " + status + " AND "
 				+ "resolution=" + resolution; 
 

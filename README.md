@@ -1,4 +1,8 @@
-# ISW2-Deliverable1
+Nome: Alessandro
+Cognome: Fato
+Matricola: 0292165
+
+ISW2-Deliverable1
 Deliverable 1 for ISW2 class
 
 E' possibile visionare direttamente il file "Process control chart.xlsx" scaricandolo dalla repository attuale.

@@ -1,9 +1,9 @@
 Nome: Alessandro <br>
 Cognome: Fato <br>
 Matricola: 0292165 <br>
-
-ISW2-Deliverable1
-Deliverable 1 for ISW2 class
+<br>
+ISW2-Deliverable1 <br>
+Deliverable 1 for ISW2 class <br>
 
 E' possibile visionare direttamente il file "Process control chart.xlsx" scaricandolo dalla repository attuale.
 In alternativa, è possibile aggiornare i dati in quel file svolgendo i seguenti passaggi:

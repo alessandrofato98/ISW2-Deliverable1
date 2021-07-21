@@ -1,6 +1,6 @@
-Nome: Alessandro
-Cognome: Fato
-Matricola: 0292165
+Nome: Alessandro <br>
+Cognome: Fato <br>
+Matricola: 0292165 <br>
 
 ISW2-Deliverable1
 Deliverable 1 for ISW2 class
